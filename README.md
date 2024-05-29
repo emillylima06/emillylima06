@@ -1,16 +1,13 @@
-## Hi there 👋
+Bem Vindo Ao Meu Perfil✨
 
-<!--
-**emillylima06/emillylima06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Emilly Lima
 
-Here are some ideas to get you started:
+-Estou cursando o último ano do ensino médio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Faço administração na Etec
+
+-Estou me desenvolvendo no linguagem JavaScript
+
+-Estou cursando inglês no Centro de Estudos de Linguas 
+
+-Utilizo esse espaço para minha organizção e compartilhamento dos meus projetos desenvolvidos
